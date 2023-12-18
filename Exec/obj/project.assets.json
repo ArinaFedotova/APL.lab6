@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Demographic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "FileOperations": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Demographic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demographic.dll": {}
+        }
+      },
+      "FileOperations/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FileOperations.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FileOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demographic/1.0.0": {
+      "type": "project",
+      "path": "../Demographic/Demographic.csproj",
+      "msbuildProject": "../Demographic/Demographic.csproj"
+    },
+    "FileOperations/1.0.0": {
+      "type": "project",
+      "path": "../FileOperations/FileOperations.csproj",
+      "msbuildProject": "../FileOperations/FileOperations.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Demographic >= 1.0.0",
+      "FileOperations >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/arinafedotova/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/arinafedotova/RiderProjects/Demographic/Exec/Exec.csproj",
+      "projectName": "Exec",
+      "projectPath": "/Users/arinafedotova/RiderProjects/Demographic/Exec/Exec.csproj",
+      "packagesPath": "/Users/arinafedotova/.nuget/packages/",
+      "outputPath": "/Users/arinafedotova/RiderProjects/Demographic/Exec/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/arinafedotova/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/arinafedotova/RiderProjects/Demographic/Demographic/Demographic.csproj": {
+              "projectPath": "/Users/arinafedotova/RiderProjects/Demographic/Demographic/Demographic.csproj"
+            },
+            "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/FileOperations.csproj": {
+              "projectPath": "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/FileOperations.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

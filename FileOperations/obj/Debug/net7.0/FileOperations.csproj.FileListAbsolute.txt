@@ -1,0 +1,11 @@
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/bin/Debug/net7.0/FileOperations.deps.json
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/bin/Debug/net7.0/FileOperations.dll
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/bin/Debug/net7.0/FileOperations.pdb
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/FileOperations.AssemblyInfoInputs.cache
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/FileOperations.AssemblyInfo.cs
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/FileOperations.csproj.CoreCompileInputs.cache
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/FileOperations.dll
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/refint/FileOperations.dll
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/FileOperations.pdb
+/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/Debug/net7.0/ref/FileOperations.dll

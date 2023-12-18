@@ -1,0 +1,15 @@
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/bin/Debug/net7.0/Demographic.deps.json
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/bin/Debug/net7.0/Demographic.dll
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/bin/Debug/net7.0/Demographic.pdb
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/bin/Debug/net7.0/FileOperations.dll
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/bin/Debug/net7.0/FileOperations.pdb
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.csproj.AssemblyReference.cache
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.AssemblyInfoInputs.cache
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.AssemblyInfo.cs
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.csproj.CoreCompileInputs.cache
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.csproj.CopyComplete
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.dll
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/refint/Demographic.dll
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/Demographic.pdb
+/Users/arinafedotova/RiderProjects/Demographic/Demographic/obj/Debug/net7.0/ref/Demographic.dll

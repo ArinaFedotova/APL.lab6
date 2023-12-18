@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/arinafedotova/RiderProjects/Demographic/Demographic1/Demographic1.csproj": {}
+  },
+  "projects": {
+    "/Users/arinafedotova/RiderProjects/Demographic/Demographic1/Demographic1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arinafedotova/RiderProjects/Demographic/Demographic1/Demographic1.csproj",
+        "projectName": "Demographic1",
+        "projectPath": "/Users/arinafedotova/RiderProjects/Demographic/Demographic1/Demographic1.csproj",
+        "packagesPath": "/Users/arinafedotova/.nuget/packages/",
+        "outputPath": "/Users/arinafedotova/RiderProjects/Demographic/Demographic1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arinafedotova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/FileOperations.csproj": {
+                "projectPath": "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/FileOperations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/FileOperations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/FileOperations.csproj",
+        "projectName": "FileOperations",
+        "projectPath": "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/FileOperations.csproj",
+        "packagesPath": "/Users/arinafedotova/.nuget/packages/",
+        "outputPath": "/Users/arinafedotova/RiderProjects/Demographic/FileOperations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arinafedotova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
